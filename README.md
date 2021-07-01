@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
 ### My website:
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://itkory.lovestolog.com/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://itkory.lovestoblog.com/)
 ###  test:
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify "click!")](https://youtu.be/dQw4w9WgXcQ)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
