@@ -20,4 +20,4 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg "http://itkory.lovestoblog.com/")](https://itkory.vercel.app/)
  
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=ntnxcft77p7nffen1t1qn3kja&cover_image=true&theme=default&bar_color_cover=true)]]
+[![https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=ntnxcft77p7nffen1t1qn3kja&cover_image=true&theme=default&bar_color_cover=true)]]
