@@ -13,8 +13,8 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/laravel-9e0d56?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
----
-![](https://img.shields.io/badge/C%23-3498DB?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+[](https://img.shields.io/badge/C%23-3498DB?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 ---
 ### My website:
