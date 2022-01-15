@@ -19,7 +19,7 @@
 ### My website:
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg "http://itkory.lovestoblog.com/")](https://itkory.vercel.app/)
  
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify "click!")](https://youtu.be/dQw4w9WgXcQ)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ntnxcft77p7nffen1t1qn3kja&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
  
 
 
