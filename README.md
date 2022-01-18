@@ -22,3 +22,4 @@
  
 ---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ntnxcft77p7nffen1t1qn3kja&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ntnxcft77p7nffen1t1qn3kja&redirect=true)![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ITKory&theme=blue-green)
+<a href="https://app.daily.dev/ITKory"><img src="https://api.daily.dev/devcards/c443a42b2de649dba77675c64951ba55.png?r=zy3" width="400" alt="Alexander Evgenievich's Dev Card"/></a>
