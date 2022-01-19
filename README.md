@@ -29,6 +29,8 @@
 - Student at [IT Academy STEP](https://ru.itstep.org/)
 -  Loves listening to music
  
+ <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+ 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ntnxcft77p7nffen1t1qn3kja&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ntnxcft77p7nffen1t1qn3kja&redirect=true)
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+ 
  
