@@ -1,25 +1,33 @@
-👋 Hi, I’m Alex, a junior software developer based in Nizny Novgorod
-- 🌱 I’m currently learning JavaScript
-- 🔭I'm a student
-- 💬open for suggestions
-### Connect with me:
-[![https://vk.com/flapi_tapi_ta](https://img.shields.io/badge/VK-2CA5E0?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/flapi_tapi_ta)
-[![https://t.me/ITKory](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ITKory)
----
-### Languages and Tools: 
-![](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=Javascript&logoColor=61DAFB)
-![](https://img.shields.io/badge/AngularJS-20232A?style=for-the-badge&logo=angularjs&logoColor=61DAFB)
-![](https://img.shields.io/badge/jQuery-20232A?style=for-the-badge&logo=jQuery&logoColor=61DAFB)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/laravel-9e0d56?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+# Hi there 👋
 
-![](https://img.shields.io/badge/C%23-3498DB?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
----
-### My website:
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg "http://itkory.lovestoblog.com/")](https://itkory.vercel.app/)
+<div align="left">
+  <a href="https://vk.com/flapi_tapi_ta">
+    <img
+      src="https://img.shields.io/badge/VK-2CA5E0?style=for-the-badge&logo=VK&logoColor=white"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://t.me/ITKory">
+    <img
+      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+<a href="https://app.daily.dev/ITKory"><img src="https://api.daily.dev/devcards/c443a42b2de649dba77675c64951ba55.png?r=zy3"  width="256"
+      align="right" alt="Alexander Evgenievich's Dev Card"/></a>
+</div>
+
+<br/>
  
----
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ntnxcft77p7nffen1t1qn3kja&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ntnxcft77p7nffen1t1qn3kja&redirect=true)![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ITKory&theme=blue-green)
-<a href="https://app.daily.dev/ITKory"><img src="https://api.daily.dev/devcards/c443a42b2de649dba77675c64951ba55.png?r=zy3" width="400" alt="Alexander Evgenievich's Dev Card"/></a>
+ 
+
+
+
+## I am Alexander Evgenievich
+
+- Student at [IT Academy STEP](https://ru.itstep.org/)
+-  Loves listening to music
+ 
+ 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
