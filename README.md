@@ -28,7 +28,7 @@
 
 ## I'am Alexander Evgenievich
 
-- Student at [IT Academy STEP](https://ru.itstep.org/)
+- Student at [IT Academy TOP](https://msk.top-academy.ru/)
  
  
  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
