@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://itkory.vercel.app/" target="_blank">Alex</a>
 </h1>
 <h3 align="center">
  Software developer from Russia 🇷🇺 
-/h3>
+</h3>
  
 <div align="left">
   <a href="https://vk.com/flapi_tapi_ta">
