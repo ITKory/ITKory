@@ -41,10 +41,8 @@ Hi there, I'm <a href="https://itkory.vercel.app/" target="_blank">Alex</a>
    <img src="https://i.giphy.com/IdyAQJVN2kVPNUrojM/giphy.gif"  height="50"/>
    <img src="https://i.giphy.com/ln7z2eWriiQAllfVcn/giphy.gif" height="50" />
    <img src="https://i.giphy.com/eNAsjO55tPbgaor7ma/giphy.gif" height="50" />
-   <img src="https://i.giphy.com/PWlsJVm3mhwQhD7imf/giphy.gif" height="50" />
    <img   src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/622ca052071761.59034e74abb36.gif" height="50">
-   <img src="https://i.giphy.com/PWlsJVm3mhwQhD7imf/giphy.gif" height="50" />
-   <img src="https://i.giphy.com/PWlsJVm3mhwQhD7imf/giphy.gif" height="50" />
+ 
     
    </p>
  
