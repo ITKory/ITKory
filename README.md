@@ -1,7 +1,7 @@
 <h1 align="center">
-<img src="https://i.giphy.com/fZEjmflebo9ZKQXpgh/giphy.gif" height="100" />
+ 
 Hi there, I'm <a href="https://itkory.vercel.app/" target="_blank">Alex</a> 
-<img src="https://i.giphy.com/SvF1NQaAsG1kt4VuZ3/giphy.gif" height="100" />
+ 
  
 </h1>
 <h3 align="center">
